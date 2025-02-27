@@ -106,7 +106,7 @@ Body Section
 					<div class="carousel-inner">
 						<div class="item">
 							<img style="width: 100%"
-								src="assets/img/bootstrap_free-ecommerce.png"
+								src="<c:url value="assets/user/img/bootstrap_free-ecommerce.png"/>"
 								alt="bootstrap ecommerce templates">
 							<div class="carousel-caption">
 								<h4>Bootstrap shopping cart</h4>
